@@ -11,7 +11,7 @@ Welcome to my site! I am current a third year master student in [NUAA](https://w
 My research interests are mainly on 3D Computer Vision, including 3D Reconstruction, Point Cloud Learning, etc. 
 
 
-Recnet News
+Recent News
 ======
 * 2021.09. Finish my three-months internship in [Coohom](https://www.coohom.com/?locale=zh_CN). Thanks to all my collaborators!
 
