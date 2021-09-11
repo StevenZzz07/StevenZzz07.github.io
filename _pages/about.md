@@ -24,4 +24,4 @@ Recent News
 
 Daily Interests
 =====
-I love playing soccer and basketball in my spare time. I am devoted supporter of Chesela club, we are blues! Also I am second Dan in Kendo practicing in [Hedao](http://www.dianping.com/shop/FfuWyihCOuBMCAt7). And I am a fan of craft beer and have a collection of beer cap. Hope to share my collection with you!
+I love playing soccer and basketball in my spare time. I am a devoted supporter of Chelsea club, we are blues! Also I am second Dan in Kendo practicing in [Hedao](http://www.dianping.com/shop/FfuWyihCOuBMCAt7). And I am a fan of craft beer and have a collection of beer cap. Hope to share my collection with you!
