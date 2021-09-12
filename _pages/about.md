@@ -12,13 +12,13 @@ My research interests are mainly on 3D Computer Vision, including 3D Reconstruct
 
 Education
 ======
-* **2020.09-Current:  M.S., NUAA, Nanjing, China.**
-* **2015.09-2020.06:  B.E., NUAA, Nanjing, China.**
+* **2020.09-Current:**    M.S., NUAA, Nanjing, China.
+* **2015.09-2020.06:**    B.E., NUAA, Nanjing, China.
 
 
 Recent News
 ======
-* 2021.09. Finish my three-months internship in [Coohom](https://www.coohom.com/?locale=zh_CN). Thanks to all my collaborators!
+* **2021.09:** Finish my three-months internship in [Coohom](https://www.coohom.com/?locale=zh_CN). Thanks to all my collaborators!
 
 
 Daily Interests
