@@ -7,5 +7,4 @@ additional: true
 paper: 
 supp: 
 code: 
-description: "profile.png"
 ---
